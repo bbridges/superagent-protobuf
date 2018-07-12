@@ -8,6 +8,6 @@ script:
   - npm run lint
   - npm test
 after_script:
-  - npx nyc report --reporter=text-lcov | npx coveralls
+  - cat ./coverage/lcov.info | npx coveralls
 notifications:
   email: false
