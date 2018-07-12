@@ -1,0 +1,48 @@
+{
+  "name": "superagent-protobuf",
+  "version": "0.1.0",
+  "description": "Adds protobuf.js encoding and decoding support to superagent",
+  "main": "lib/superagent-protobuf.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint lib test"
+  },
+  "keywords": [
+    "superagent",
+    "supertest",
+    "protobuf",
+    "protocol-buffers",
+    "protobufjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bloof-bb/superagent-protobuf.git"
+  },
+  "author": "Bradley Bridges <blbridges96@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/bloof-bb/superagent-protobuf/issues"
+  },
+  "homepage": "https://github.com/bloof-bb/superagent-protobuf",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-jest": "^21.17.0",
+    "jest": "^23.4.0",
+    "koa": "^2.5.1",
+    "koa-protobuf": "^0.1.0",
+    "koa-router": "^7.4.0",
+    "protobufjs": "~6.8.6",
+    "superagent": "^3.8.3",
+    "supertest": "^3.1.0"
+  },
+  "files": [
+    "lib/",
+    "package.json",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
