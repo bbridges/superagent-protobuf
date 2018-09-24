@@ -16,13 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bloof-bb/superagent-protobuf.git"
+    "url": "git://github.com/bbridges/superagent-protobuf.git"
   },
   "author": "Bradley Bridges <blbridges96@gmail.com>",
   "bugs": {
-    "url": "https://github.com/bloof-bb/superagent-protobuf/issues"
+    "url": "https://github.com/bbridges/superagent-protobuf/issues"
   },
-  "homepage": "https://github.com/bloof-bb/superagent-protobuf",
+  "homepage": "https://github.com/bbridges/superagent-protobuf",
   "license": "MIT",
   "engines": {
     "node": ">= 6.0"

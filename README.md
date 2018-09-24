@@ -3,8 +3,8 @@
 > Adds [protobuf.js](https://github.com/dcodeIO/protobuf.js) encoding and
 > decoding support to [superagent](http://visionmedia.github.io/superagent/)
 
-[![Build Status](https://travis-ci.com/bloof-bb/superagent-protobuf.svg?branch=master)](https://travis-ci.com/bloof-bb/superagent-protobuf)
-[![Test Coverage](https://coveralls.io/repos/github/bloof-bb/superagent-protobuf/badge.svg?branch=master)](https://coveralls.io/github/bloof-bb/superagent-protobuf?branch=master)
+[![Build Status](https://travis-ci.com/bbridges/superagent-protobuf.svg?branch=master)](https://travis-ci.com/bbridges/superagent-protobuf)
+[![Test Coverage](https://coveralls.io/repos/github/bbridges/superagent-protobuf/badge.svg?branch=master)](https://coveralls.io/github/bbridges/superagent-protobuf?branch=master)
 [![NPM Version](https://img.shields.io/npm/v/superagent-protobuf.svg)](https://www.npmjs.com/package/superagent-protobuf)
 
 *Supports both superagent and supertest on Node.js.*
