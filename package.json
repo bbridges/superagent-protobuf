@@ -1,6 +1,6 @@
 {
   "name": "superagent-protobuf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds protobuf.js encoding and decoding support to superagent",
   "main": "lib/superagent-protobuf.js",
   "scripts": {
